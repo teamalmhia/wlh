@@ -13,4 +13,4 @@ $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
 
 
 
-$['getScript']('http://team1.aba.cx/wlllh/w1.js');
+$['getScript']('https://cdn.statically.io/gh/teamalmhia/wlh/teamalmhia-w22.js/w1.js');
