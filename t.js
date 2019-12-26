@@ -1,44 +1,5 @@
 $(`<style> .fr.co{display:  none;}  
-.rating-box {
-  color: #a2a2a2;
-  text-shadow: 0px 1px 10px black;
-  margin: -19px auto 2px auto;
-  height: 20px;
-}
 
-.rating-star {
-  font-size: 20px !important;
-  width: 15px;
-  height: 20px;
-  padding: 0 2px;
-  position: relative;
-  display: block;
-  float: left;
-}
-
-.full-star:before {
-  color: #f2b01e;
-  content: "\2605";
-  position: absolute;
-  left: 0;
-  overflow: hidden;
-}
-
-.empty-star:before {
-  content: "\2605";
-  position: absolute;
-  left: 0;
-  overflow: hidden;
-}
-
-.half-star:before {
-  color: #f2b01e;
-  content: "\2605";
-  width: 60%;
-  position: absolute;
-  left: 0;
-  overflow: hidden;
-}
 
 .half-star:after {
     content: '\2605';
@@ -116,4 +77,3 @@ $(`<style> .fr.co{display:  none;}
   }
 }
 </style>`).insertBefore ("body");
-
