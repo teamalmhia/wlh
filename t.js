@@ -1,4 +1,4 @@
-$(`<style>
+$(`<style> .fr.co{display:  none;}  
 .rainbow {
   position: relative;
   z-index: 0;
@@ -49,4 +49,5 @@ $(`<style>
     transform: rotate(360deg) scale(1);
   }
 }
-     </style>`).insertBefore('body');
+</style>`).insertBefore ("body");
+
